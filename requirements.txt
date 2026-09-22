@@ -1,0 +1,5 @@
+# Wajib Python 3.9 - 3.12 (MediaPipe belum support Python 3.13/3.14)
+# mediapipe dipin ke 0.10.21 karena versi 0.10.30+ menghapus API mp.solutions
+mediapipe==0.10.21
+opencv-python<4.12
+numpy<2
