@@ -1,4 +1,4 @@
-# InvisibleToggle 🫥
+# InvisibleToggle 
 
 Program "jubah tak terlihat" (invisibility cloak) berbasis webcam, dibuat menggunakan **Python**, **OpenCV**, dan **MediaPipe**. Proyek ini sepenuhnya dibuat sendiri sebagai eksperimen computer vision — mendeteksi gerakan tangan secara real-time untuk mengaktifkan/menonaktifkan efek "menghilang" di layar.
 
